@@ -21,7 +21,9 @@ The report refreshes automatically every hour when the market is open ,the data 
 - **Identify the gains and losses of the day.**  
 - **Analyse the highest volume traded for a stock in a day.**  
 - **Compare the sectors wrt its performance in the markets.**  
-- **Visualize insights through an interactive Power BI report.**  
+- **Visualize insights through an interactive Power BI report.**
 
 
+---
+To open the report click here:https://app.powerbi.com/reportEmbed?reportId=b166e8e6-f16d-449f-8751-f6a43286fd30&autoAuth=true&ctid=ca09097f-2548-4b5e-bc01-1c639dbc7a7f
 ---
