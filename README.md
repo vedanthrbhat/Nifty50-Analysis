@@ -24,6 +24,4 @@ The report refreshes automatically every hour when the market is open ,the data 
 - **Visualize insights through an interactive Power BI report.**
 
 
----
-To open the report click here:https://app.powerbi.com/reportEmbed?reportId=b166e8e6-f16d-449f-8751-f6a43286fd30&autoAuth=true&ctid=ca09097f-2548-4b5e-bc01-1c639dbc7a7f
----
+
